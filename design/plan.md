@@ -1,0 +1,1 @@
+This is a shooting game. You need to kill all enemies. By using the left and right keys you can move the shooter. In the top left, there is a color-changing button. If you will click on that the background will be blue.
